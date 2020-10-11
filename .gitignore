@@ -1,3 +1,6 @@
+# files
 *-checkpoint.csv
 
+# directories
 **/.ipynb_checkpoints
+**/.idea

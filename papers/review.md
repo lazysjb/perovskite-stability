@@ -1,4 +1,4 @@
-##Predicting the Thermodynamic Stability
+## Predicting the Thermodynamic Stability
 
 - Thermodynamic phase stability is a key param that governs whether the 
 material is expected to be synthesizable, and whether it may degrade under 

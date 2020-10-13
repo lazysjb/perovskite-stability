@@ -11,6 +11,10 @@ the convex hull) can be calculated using DFT but significant computational cost
     - 28.5 meV / atom RMSE - regression
 
 [Question]
+- Should we start off with the original 960 features, or the top 70 features?
+    - Original features in [Supplement Section](https://www.sciencedirect.com/science/article/pii/S2352340918305092?via%3Dihub#ec1005)
+    - Generation of original features in [Author Repository](https://github.com/uw-cmg/perovskite-oxide-stability-prediction) 
+
 - How to predict stability of compounds not in the training set?
 
 [TODO]
